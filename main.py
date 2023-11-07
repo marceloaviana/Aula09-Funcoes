@@ -16,3 +16,5 @@ def saudacao(nome):
 
 nome = input("Digite seu nome: ")
 saudacao(nome)
+
+# Fim do código
